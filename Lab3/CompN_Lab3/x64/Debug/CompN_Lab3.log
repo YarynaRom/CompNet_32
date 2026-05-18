@@ -1,0 +1,4 @@
+﻿  CompN_Lab3.cpp
+C:\Users\romle\source\repos\CompN_Lab3\CompN_Lab3\CompN_Lab3.cpp(25,57): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\romle\source\repos\CompN_Lab3\CompN_Lab3\CompN_Lab3.cpp(86,65): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  CompN_Lab3.vcxproj -> C:\Users\romle\source\repos\CompN_Lab3\x64\Debug\CompN_Lab3.exe

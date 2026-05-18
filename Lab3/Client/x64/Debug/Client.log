@@ -1,0 +1,4 @@
+﻿  Client.cpp
+C:\Users\romle\source\repos\CompN_Lab3\Client\Client.cpp(71,63): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\romle\source\repos\CompN_Lab3\Client\Client.cpp(120,63): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Client.vcxproj -> C:\Users\romle\source\repos\CompN_Lab3\x64\Debug\Client.exe

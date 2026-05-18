@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "CompN_Lab3\\CompN_Lab3.vcxproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Client\\Client.vcxproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
