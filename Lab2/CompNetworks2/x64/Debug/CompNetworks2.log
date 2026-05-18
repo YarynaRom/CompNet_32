@@ -1,0 +1,16 @@
+﻿  CompNetworks2.cpp
+C:\Users\romle\source\repos\CompNetworks2\CompNetworks2\CompNetworks2.cpp(101,39): warning C4566: character represented by universal-character-name '\u041F' cannot be represented in the current code page (1252)
+C:\Users\romle\source\repos\CompNetworks2\CompNetworks2\CompNetworks2.cpp(101,39): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\Users\romle\source\repos\CompNetworks2\CompNetworks2\CompNetworks2.cpp(101,39): warning C4566: character represented by universal-character-name '\u043C' cannot be represented in the current code page (1252)
+C:\Users\romle\source\repos\CompNetworks2\CompNetworks2\CompNetworks2.cpp(101,39): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+C:\Users\romle\source\repos\CompNetworks2\CompNetworks2\CompNetworks2.cpp(101,39): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+C:\Users\romle\source\repos\CompNetworks2\CompNetworks2\CompNetworks2.cpp(101,39): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+C:\Users\romle\source\repos\CompNetworks2\CompNetworks2\CompNetworks2.cpp(101,39): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+C:\Users\romle\source\repos\CompNetworks2\CompNetworks2\CompNetworks2.cpp(106,17): warning C4566: character represented by universal-character-name '\u041F' cannot be represented in the current code page (1252)
+C:\Users\romle\source\repos\CompNetworks2\CompNetworks2\CompNetworks2.cpp(106,17): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\Users\romle\source\repos\CompNetworks2\CompNetworks2\CompNetworks2.cpp(106,17): warning C4566: character represented by universal-character-name '\u043C' cannot be represented in the current code page (1252)
+C:\Users\romle\source\repos\CompNetworks2\CompNetworks2\CompNetworks2.cpp(106,17): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+C:\Users\romle\source\repos\CompNetworks2\CompNetworks2\CompNetworks2.cpp(106,17): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+C:\Users\romle\source\repos\CompNetworks2\CompNetworks2\CompNetworks2.cpp(106,17): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+C:\Users\romle\source\repos\CompNetworks2\CompNetworks2\CompNetworks2.cpp(106,17): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+  CompNetworks2.vcxproj -> C:\Users\romle\source\repos\CompNetworks2\x64\Debug\CompNetworks2.exe
